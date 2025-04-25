@@ -3489,7 +3489,7 @@ const clinic_array_malaysia = `{
 const clinic_array_philippines = `{
 	"0": {
 	  "ID": "8872",
-	  "na": "907 Civic Place Ultherapy",
+	  "na": "907 CIVIC PLACE ULTHERAPY",
 	  "gu": "https://ultherapy-asia.com/store/907-civic-place-ultherapy/",
 	  "ex": "",
 	  "lat": "14.4141749",
