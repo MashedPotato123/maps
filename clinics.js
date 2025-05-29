@@ -5309,7 +5309,7 @@ const clinic_array_philippines = `{
 	  "lng": "125.6103846354977",
 	  "distance": "969.8282162984104",
 	  "rt": "",
-	  "st": "64 Rizal Extension Davao City Davao Del Sur",
+	  "st": "RLO Building, CM Recto cor Rizal Ext. St., Davao City",
 	  "te": "+63917 3000671",
 	  "ic": "",
 	  "mi": "",
