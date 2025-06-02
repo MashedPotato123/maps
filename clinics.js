@@ -3881,7 +3881,8 @@ const clinic_array_philippines = `{
 	  "st": "108 Ground Floor, Fort Victoria, 5th Avenue corner Rizal Drive, Bonifacio Global City, Taguig City",
 	  "te": "+63917 6368732",
 	  "ic": "",
-	  "mi": ""
+	  "mi": "",
+    "pr": "1"
 	},
 	"16": {
 	  "ID": "8810",
@@ -3896,7 +3897,8 @@ const clinic_array_philippines = `{
 	  "te": "+63917 1002366",
 	  "ic": "",
 	  "mi": "",
-	  "we": "http://"
+	  "we": "http://",
+    "pr": "1"
 	},
 	"17": {
 	  "ID": "8746",
@@ -3971,7 +3973,8 @@ const clinic_array_philippines = `{
 	  "st": "8th Floor MDI Corporate Center 10th Ave. Cor. 39th St. BGC, Taguig",
 	  "te": "+63917 5142879",
 	  "ic": "",
-	  "mi": ""
+	  "mi": "",
+    "pr": "1"
 	},
 	"22": {
 	  "ID": "9270",
@@ -4000,7 +4003,8 @@ const clinic_array_philippines = `{
 	  "te": "+632 85395904",
 	  "ic": "",
 	  "mi": "",
-	  "we": "http://www.belomed.com"
+	  "we": "http://www.belomed.com",
+    "pr": "1"
 	},
 	"24": {
 	  "ID": "9269",
@@ -4015,7 +4019,9 @@ const clinic_array_philippines = `{
 	  "te": "+6332 4171323",
 	  "ic": "",
 	  "mi": "",
-	  "we": "http://www.belomed.com"
+	  "we": "http://www.belomed.com",
+    "pr": "1"
+    
 	},
 	"25": {
 	  "ID": "9190",
@@ -4045,7 +4051,8 @@ const clinic_array_philippines = `{
 	  "te": "+632 85395911",
 	  "ic": "",
 	  "mi": "",
-	  "we": "http://www.belomed.com"
+	  "we": "http://www.belomed.com",
+	  "pr": "1"
 	},
 	"27": {
 	  "ID": "9268",
@@ -5007,11 +5014,11 @@ const clinic_array_philippines = `{
 	  "ic": "",
 	  "mi": "",
 	  "we": "",
-	  "pr": ""
+	  "pr": "1"
 	},
 	"93": {
 	  "ID": "9225",
-	  "na": "LUMINISCE HOLISTIC SKIN INNOVATIONS",
+	  "na": "LUMINISCE HOLISTIC SKIN INNOVATIONS ALABANG",
 	  "gu": "https://ultherapy-asia.com/store/luminisce-holistic-skin-innovation/",
 	  "ex": "",
 	  "lat": "14.584813",
@@ -5023,7 +5030,7 @@ const clinic_array_philippines = `{
 	  "ic": "",
 	  "mi": "",
 	  "we": "http://luminisce.com/",
-	  "pr": ""
+    "pr": "1"
 	},
 	"94": {
 	  "ID": "8888",
@@ -5313,7 +5320,7 @@ const clinic_array_philippines = `{
 	  "te": "+63917 3000671",
 	  "ic": "",
 	  "mi": "",
-	  "pr": ""
+	  "pr": "1"
 	},
 	"114": {
 	  "ID": "8795",
@@ -5415,7 +5422,7 @@ const clinic_array_philippines = `{
 	  "te": "+63917 8736339",
 	  "ic": "",
 	  "mi": "",
-	  "pr": ""
+	  "pr": "1"
 	},
 	"121": {
 	  "ID": "9242",
@@ -5608,7 +5615,8 @@ const clinic_array_philippines = `{
 	  "st": "2nd Floor Alabang Town Center",
 	  "te": "403-9406 / 400-9591 / 0922-880-6282 / 0927-508-9279",
 	  "ic": "",
-	  "mi": ""
+	  "mi": "",
+    "pr": "1"
 	},
 	"134": {
 	  "ID": "9241",
@@ -5666,7 +5674,8 @@ const clinic_array_philippines = `{
 	  "te": "+623 86387871",
 	  "ic": "",
 	  "mi": "",
-	  "we": "http://www.skinandcancerfoundation.org"
+	  "we": "http://www.skinandcancerfoundation.org",
+	  "pr": "1"
 	},
 	"138": {
 	  "ID": "8865",
@@ -5738,7 +5747,9 @@ const clinic_array_philippines = `{
 	  "te": "+63917 6378161",
 	  "ic": "",
 	  "mi": "",
-	  "we": "https://www.theskinhousebeauty.com/"
+	  "we": "https://www.theskinhousebeauty.com/",
+    "pr": "1"
+    
 	},
 	"143": {
 	  "ID": "8870",
@@ -5767,7 +5778,8 @@ const clinic_array_philippines = `{
 	  "te": "+63915 2136111",
 	  "ic": "",
 	  "mi": "",
-	  "we": "https://www.skinmdc.com"
+	  "we": "https://www.skinmdc.com",
+    "pr": "1"
 	},
 	"145": {
 	  "ID": "9221",
