@@ -3611,22 +3611,6 @@ const clinic_array_malaysia = `{
 	  "pr": "1"
 	},
     "70": {
-	  "ID": "11188",
-	  "na": "B's Clinic",
-	  "gu": "",
-	  "ex": "",
-	  "lat": "3.1530421170023533,",
-	  "lng": "101.70930275374228",
-	  "distance": "0",
-	  "rt": "",
-	  "st": "Level 9, Equatorial Plaza, Jalan Sultan Ismail, 50250, Kuala Lumpur, Malaysia",
-	  "te": "",
-	  "ic": "",
-	  "mi": "",
-	  "we": "",
-	  "pr": "1"
-	},
-    "71": {
 	  "ID": "11189",
 	  "na": "S Clinic",
 	  "gu": "",
