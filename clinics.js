@@ -3168,7 +3168,7 @@ const clinic_array_malaysia = `{
 	  "ic": "",
 	  "mi": "",
 	  "we": "https://www.neumaxclinic.com/",
-	  "pr": ""
+	  "pr": "1"
 	},
 	"42": {
 	  "ID": "10062",
@@ -3547,22 +3547,6 @@ const clinic_array_malaysia = `{
 	  "pr": "1"
 	},
     "66": {
-	  "ID": "111855",
-	  "na": "Neumax Clinic",
-	  "gu": "",
-	  "ex": "",
-	  "lat": "3.126925267478822",
-	  "lng": "101.61672155601983",
-	  "distance": "0",
-	  "rt": "",
-	  "st": "G32&33, Ground Floor, Atria Shopping Gallery, Jalan SS 22/23, Damansara Jaya, 47400 Petaling Jaya, Selangor, Malaysia",
-	  "te": "",
-	  "ic": "",
-	  "mi": "",
-	  "we": "",
-	  "pr": "1"
-	},
-    "67": {
 	  "ID": "11185",
 	  "na": "MX Clinic",
 	  "gu": "",
@@ -3578,7 +3562,7 @@ const clinic_array_malaysia = `{
 	  "we": "",
 	  "pr": "1"
 	},
-    "68": {
+    "67": {
 	  "ID": "11186",
 	  "na": "MH Clinic",
 	  "gu": "",
@@ -3594,7 +3578,7 @@ const clinic_array_malaysia = `{
 	  "we": "",
 	  "pr": "1"
 	},
-    "69": {
+    "68": {
 	  "ID": "11187",
 	  "na": "B's Clinic",
 	  "gu": "",
@@ -3610,7 +3594,7 @@ const clinic_array_malaysia = `{
 	  "we": "",
 	  "pr": "1"
 	},
-    "70": {
+    "69": {
 	  "ID": "11189",
 	  "na": "S Clinic",
 	  "gu": "",
