@@ -3122,7 +3122,7 @@ const clinic_array_malaysia = `{
     "lng": "101.11697463215746",
     "distance": "0",
     "rt": "",
-    "st": "21A-B Medan Ipoh, 1A, Medan Ipoh Bistaru, 31400 Ipoh, Perak, Malaysia",
+    "st": "No. 21A-B Medan Ipoh, 1A, Medan Ipoh Bistari, 31400 Ipoh, Perak, Malaysia",
     "te": "",
     "ic": "",
     "mi": "",
