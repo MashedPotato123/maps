@@ -4662,15 +4662,15 @@ const clinic_array_philippines = `{
     "na": "DR. LIBERTY SUMILANG - SKIN SOLUTIONS",
     "gu": "https://ultherapy-asia.com/store/dr-francesca-sumilang-sy-alvarado-and-dr-liberty-sumilang/",
     "ex": "",
-    "lat": "16.021049866685512",
-    "lng": "120.35964070924192",
+    "lat": "16.02123826681394",
+    "lng": "120.35957951349191",
     "distance": "4.325602290031479",
     "rt": "",
     "st": "2/F The Porch by the Monarch Hotel, Calasiao, Pangasinan",
-    "te": "09171462928 / (02) 71182765",
+    "te": "+63 9 2673 6290",
     "ic": "",
     "mi": "",
-    "we": "http://"
+    "we": ""
   },
   "69": {
     "ID": "8800",
@@ -5194,11 +5194,11 @@ const clinic_array_philippines = `{
     "na": "MANNY AND PIE CALAYAN CLINIC",
     "gu": "https://ultherapy-asia.com/store/manny-and-pie-calayan-clinic-3/",
     "ex": "",
-    "lat": "14.558378",
-    "lng": "121.014409",
+    "lat": "14.416239841119996",
+    "lng": "121.04251482581236",
     "distance": "3.594328651636622",
     "rt": "",
-    "st": "Suite 1701 Medical Plaza Makati Dela Rosa corner Amorsolo Streets Legazpi Village, Makati City. ",
+    "st": "2nd Floor Expansion Wing Festival Mall Alabang Civic Drive Entrance Muntinlupa City, Philippines",
     "te": "(+63) 9178444266 / (+632) 8450015",
     "ic": "",
     "mi": ""
@@ -5610,7 +5610,7 @@ const clinic_array_philippines = `{
     "te": "09178404202",
     "ic": "",
     "mi": "",
-    "we": "http://"
+    "we": ""
   },
   "133": {
     "ID": "9492",
@@ -19461,7 +19461,7 @@ const clinic_array_vietname = `{
   },
   "32": {
     "ID": "12506",
-    "na": "MEKO CLINIC",
+    "na": "MAURAÉ CLINIC",
     "gu": "https://ultherapy-asia.com/store/meko-clinic-2/",
     "ex": "",
     "lat": "11.54451092117585",
