@@ -3662,7 +3662,7 @@ const clinic_array_malaysia = `{
 //#endregion
 
 //#region Phlippines
-const clinic_array_philippines = `{
+  const clinic_array_philippines = `{
   "1": {
     "ID": "8872",
     "na": "907 CIVIC PLACE ULTHERAPY",
@@ -3710,6 +3710,21 @@ const clinic_array_philippines = `{
     "pr": ""
   },
   "4": {
+    "ID": "11229",
+    "na": "ADRANEDA DERMATOLOGY AND COSMETIC SURGERY INC.",
+    "gu": "https://maps.app.goo.gl/ns4JtwdZZ2FjUH8h6",
+    "ex": "",
+    "lat": "14.556265223324223",
+    "lng": "121.05022553556037",
+    "distance": "",
+    "rt": "",
+    "st": "S231 Avida Cityflex SOHO Tower, City of Makati, 1634 Metro Manila",
+    "te": "+63 917 147 0113",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "5": {
     "ID": "9218",
     "na": "ADVANCED AESTHETICS BY DR.JAVELLANA",
     "gu": "https://ultherapy-asia.com/store/advanced-aesthetics-by-dr-javellana/",
@@ -3723,7 +3738,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.veniajavellana.com.ph"
   },
-  "5": {
+  "6": {
     "ID": "9276",
     "na": "ADVANCED AESTHETICS BY DR.JAVELLANA",
     "gu": "https://ultherapy-asia.com/store/advanced-aesthetics-by-dr-javellana-2/",
@@ -3737,7 +3752,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.veniajavellana.com.ph"
   },
-  "6": {
+  "7": {
     "ID": "9275",
     "na": "AESTHETICS 101",
     "gu": "https://ultherapy-asia.com/store/aesthetics-101/",
@@ -3751,7 +3766,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "7": {
+  "8": {
     "ID": "9274",
     "na": "AIVEE A-INSTITUTE FORT",
     "gu": "",
@@ -3767,7 +3782,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "8": {
+  "9": {
     "ID": "8879",
     "na": "AIVEE CLINIC COMMERCE CENTER",
     "gu": "",
@@ -3783,7 +3798,22 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "9": {
+  "10": {
+    "ID": "11213",
+    "na": "AIVEE CLINIC PARQAL MALL",
+    "gu": "https://maps.app.goo.gl/LmmA3yAxNYBxCJLj6",
+    "ex": "",
+    "lat": "14.52674118581317",
+    "lng": "120.98849885666814",
+    "distance": "",
+    "rt": "",
+    "st": "Second Floor, Parqal Mall, Parañaque, Metro Manila",
+    "te": "+63 917 623 0891",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "11": {
     "ID": "8880",
     "na": "AIVEE CLINIC SM MEGA FASHION HALL",
     "gu": "",
@@ -3799,7 +3829,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "10": {
+  "12": {
     "ID": "8881",
     "na": "AIVEE FORT BGC",
     "gu": "https://ultherapy-asia.com/store/aivee-bgc-fort/",
@@ -3814,7 +3844,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "11": {
+  "13": {
     "ID": "9220",
     "na": "AIVEE VERTIS NORTH",
     "gu": "",
@@ -3830,7 +3860,22 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "12": {
+  "14": {
+    "ID": "11224",
+    "na": "AMOREA AESTHETIC CLINIC",
+    "gu": "https://maps.app.goo.gl/NLQBSYtk5oMEqcoT7",
+    "ex": "",
+    "lat": "14.634899409630089",
+    "lng": "121.03072926438156",
+    "distance": "",
+    "rt": "",
+    "st": "Unit1C Amorea Aesthetic Clinic, Cocoon Boutique Hotel, Sct Rallos, Brgy Laging Handa, Quezon City",
+    "te": "+63 927 411 2762",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "15": {
     "ID": "9259",
     "na": "APHRODITE CLINIC",
     "gu": "https://ultherapy-asia.com/store/aphrodite-clinic/",
@@ -3843,7 +3888,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "13": {
+  "16": {
     "ID": "9273",
     "na": "ARNOLD ANGELES M.D.",
     "gu": "https://ultherapy-asia.com/store/arnold-angeles-m-d/",
@@ -3856,7 +3901,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "14": {
+  "17": {
     "ID": "8885",
     "na": "ASIAN STEM CELL INSTITUTE",
     "gu": "https://ultherapy-asia.com/store/asian-stem-cell-institute/",
@@ -3870,7 +3915,22 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "15": {
+  "18": {
+    "ID": "11228",
+    "na": "AURA RUZ AESTHETICS AND MEDICAL GROUP",
+    "gu": "https://maps.app.goo.gl/6WcNaU1sbj6jJoqp8",
+    "ex": "",
+    "lat": "14.634551390381382",
+    "lng": "121.03235029318141",
+    "distance": "",
+    "rt": "",
+    "st": "38 Sct. Rallos St, Diliman, Quezon City, Metro Manila",
+    "te": "+63 917 923 0303",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "19": {
     "ID": "12059",
     "na": "AURA RUZ MEDICAL GROUP",
     "gu": "https://ultherapy-asia.com/store/aura-ruz-medical-group/",
@@ -3885,7 +3945,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "16": {
+  "20": {
     "ID": "8746",
     "na": "AVANT SKIN",
     "gu": "https://ultherapy-asia.com/store/azala-dermatology/",
@@ -3901,7 +3961,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "17": {
+  "21": {
     "ID": "8847",
     "na": "AVIGNON CLINIC BGC",
     "gu": "https://ultherapy-asia.com/store/avignon/",
@@ -3916,7 +3976,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "18": {
+  "22": {
     "ID": "8810",
     "na": "AVIGNON CLINIC GRAND ALABANG",
     "gu": "https://ultherapy-asia.com/store/avignon-clinic/",
@@ -3932,7 +3992,37 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": "1"
   },
-  "19": {
+  "23": {
+    "ID": "11227",
+    "na": "AVIGNON CLINIC PAMPANGA",
+    "gu": "https://maps.app.goo.gl/AHcAWp18Ydg9P838A",
+    "ex": "",
+    "lat": "15.051929785328516",
+    "lng": "120.69864338757048",
+    "distance": "",
+    "rt": "",
+    "st": "Unit 220, Level 2, SM City Pampanga, City of San Fernando, Pampanga",
+    "te": "+63 917 187 2197",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "24": {
+    "ID": "11219",
+    "na": "BANG'S PRIME SKIN AESTHETICS",
+    "gu": "https://maps.app.goo.gl/zBH2vVE6w6ByiNwj9",
+    "ex": "",
+    "lat": "14.560057676417452",
+    "lng": "121.01248013553857",
+    "distance": "",
+    "rt": "",
+    "st": "Ground Level, West Of Ayala Building, 252 Sen. Gil J. Puyat Ave, Makati City, 1200 Metro Manila",
+    "te": "+63 2 8727 8632",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "25": {
     "ID": "12540",
     "na": "BASE AESTHETICS CLINIC",
     "gu": "https://ultherapy-asia.com/store/base-aesthetics-clinic/",
@@ -3947,7 +4037,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "20": {
+  "26": {
     "ID": "12063",
     "na": "BE.U BEAUTY CLINIC",
     "gu": "https://ultherapy-asia.com/store/be-u-beauty-clinic/",
@@ -3962,7 +4052,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "21": {
+  "27": {
     "ID": "8741",
     "na": "BEAUTEHAUS AESTHETIC CLINIC",
     "gu": "https://ultherapy-asia.com/store/beautehaus-aesthetic-clinic/",
@@ -3978,7 +4068,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "22": {
+  "28": {
     "ID": "9271",
     "na": "BEAUTIQUE MD",
     "gu": "https://ultherapy-asia.com/store/beautique-md/",
@@ -3993,7 +4083,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "23": {
+  "29": {
     "ID": "9270",
     "na": "BELEZZA DI CRISTINA AESTHETICS AND MED SPA",
     "gu": "https://ultherapy-asia.com/store/belezza-di-cristina-aesthetics-and-med-spa/",
@@ -4007,7 +4097,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "https://www.bellezzadicristinaaesthetics.com/"
   },
-  "24": {
+  "30": {
     "ID": "11215",
     "na": "BELO MEDICAL GROUP ABREEZA MALL DAVAO",
     "gu": "",
@@ -4022,7 +4112,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "25": {
+  "31": {
     "ID": "9183",
     "na": "BELO MEDICAL GROUP ALABANG",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-alabang/",
@@ -4038,7 +4128,7 @@ const clinic_array_philippines = `{
     "we": "http://www.belomed.com",
     "pr": "1"
   },
-  "26": {
+  "32": {
     "ID": "11860",
     "na": "BELO MEDICAL GROUP BGC",
     "gu": "",
@@ -4054,7 +4144,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "27": {
+  "33": {
     "ID": "9190",
     "na": "BELO MEDICAL GROUP BONIFACIO HIGH STREET CENTRAL",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-bonifacio-high-street-central/",
@@ -4069,7 +4159,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.belomed.com"
   },
-  "28": {
+  "34": {
     "ID": "9269",
     "na": "BELO MEDICAL GROUP CEBU",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-ayala-center-cebu/",
@@ -4085,7 +4175,7 @@ const clinic_array_philippines = `{
     "we": "http://www.belomed.com",
     "pr": "1"
   },
-  "29": {
+  "35": {
     "ID": "11214",
     "na": "BELO MEDICAL GROUP CLARK",
     "gu": "",
@@ -4100,7 +4190,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "30": {
+  "36": {
     "ID": "9228",
     "na": "BELO MEDICAL GROUP GREENBELT",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-greenbelt-makati/",
@@ -4116,7 +4206,7 @@ const clinic_array_philippines = `{
     "we": "http://www.belomed.com",
     "pr": "1"
   },
-  "31": {
+  "37": {
     "ID": "9268",
     "na": "BELO MEDICAL GROUP GREENHILLS",
     "gu": "",
@@ -4132,7 +4222,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "32": {
+  "38": {
     "ID": "11856",
     "na": "BELO MEDICAL GROUP NEXA",
     "gu": "",
@@ -4148,7 +4238,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "33": {
+  "39": {
     "ID": "9187",
     "na": "BELO MEDICAL GROUP POWERPLANT MAKATI",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-powerplant-makati/",
@@ -4163,7 +4253,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.belomed.com"
   },
-  "34": {
+  "40": {
     "ID": "9184",
     "na": "BELO MEDICAL GROUP S MAISON",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-s-maison/",
@@ -4178,7 +4268,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.belomed.com"
   },
-  "35": {
+  "41": {
     "ID": "11861",
     "na": "BELO MEDICAL GROUP S MAISON CONRAD",
     "gu": "",
@@ -4194,7 +4284,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "36": {
+  "42": {
     "ID": "9185",
     "na": "BELO MEDICAL GROUP SHANGRI-LA PLAZA",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-shangri-la-plaza/",
@@ -4210,7 +4300,7 @@ const clinic_array_philippines = `{
     "we": "http://www.belomed.com",
     "pr": "1"
   },
-  "37": {
+  "43": {
     "ID": "9227",
     "na": "BELO MEDICAL GROUP THE BLOCK",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-the-block/",
@@ -4226,7 +4316,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.belomed.com"
   },
-  "38": {
+  "44": {
     "ID": "9186",
     "na": "BELO MEDICAL GROUP THE MEGA ATRIUM",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-the-mega-atrium/",
@@ -4241,7 +4331,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.belomed.com"
   },
-  "39": {
+  "45": {
     "ID": "9188",
     "na": "BELO MEDICAL GROUP TOMAS MORATO",
     "gu": "https://ultherapy-asia.com/store/belo-medical-group-tomas-morato/",
@@ -4257,7 +4347,7 @@ const clinic_array_philippines = `{
     "we": "http://www.belomed.com",
     "pr": "1"
   },
-  "40": {
+  "46": {
     "ID": "11857",
     "na": "BELO MEDICAL GROUP TRINOMA",
     "gu": "",
@@ -4273,7 +4363,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "41": {
+  "47": {
     "ID": "8855",
     "na": "BENCH SKIN EXPERT- MEGAMALL BRANCH",
     "gu": "https://ultherapy-asia.com/store/bench-skin-expert-megamall-branch/",
@@ -4287,7 +4377,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "42": {
+  "48": {
     "ID": "8856",
     "na": "BENCH SKIN EXPERT- TRINOMA BRANCH",
     "gu": "https://ultherapy-asia.com/store/bench-skin-expert-trinoma-branch/",
@@ -4301,7 +4391,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "43": {
+  "49": {
     "ID": "9266",
     "na": "BENCH SKIN EXPERTS",
     "gu": "https://ultherapy-asia.com/store/bench-skin-experts/",
@@ -4316,7 +4406,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.benchskinexpert.com"
   },
-  "44": {
+  "50": {
     "ID": "11254",
     "na": "BLUSH MEDICAL AESTHETICS CEBU",
     "gu": "https://ultherapy-asia.com/store/blush-medical-aesthetics-cebu/",
@@ -4331,7 +4421,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "45": {
+  "51": {
     "ID": "8886",
     "na": "BODYWORX MEDICAL SPA",
     "gu": "https://ultherapy-asia.com/store/bodyworx-medical-spa/",
@@ -4344,7 +4434,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "46": {
+  "52": {
     "ID": "12047",
     "na": "BRILLIANT MEDICAL GROUP",
     "gu": "https://ultherapy-asia.com/store/brilliant-medical-group/",
@@ -4359,7 +4449,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "47": {
+  "53": {
     "ID": "8742",
     "na": "CA BEAUTY AND WELLNESS",
     "gu": "https://ultherapy-asia.com/store/ca-beauty-and-wellness/",
@@ -4374,7 +4464,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "48": {
+  "54": {
     "ID": "8849",
     "na": "CAPITOL MEDICAL CENTER INC.",
     "gu": "https://ultherapy-asia.com/store/capitol-medical-center-inc/",
@@ -4388,7 +4478,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "49": {
+  "55": {
     "ID": "9265",
     "na": "CARADERME CLINIC",
     "gu": "https://ultherapy-asia.com/store/caraderme-clinic/",
@@ -4402,7 +4492,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.caraderme.com"
   },
-  "50": {
+  "56": {
     "ID": "8854",
     "na": "CATHERINE LAMANOSA",
     "gu": "https://ultherapy-asia.com/store/catherine-lamanosa/",
@@ -4416,7 +4506,22 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "51": {
+  "57": {
+    "ID": "11218",
+    "na": "CATHY VALENCIA ADVANCED SKIN CLINIC",
+    "gu": "https://maps.app.goo.gl/5nafwXZPmgN2hxah8",
+    "ex": "",
+    "lat": "14.548287065368179",
+    "lng": "121.0477124774737",
+    "distance": "",
+    "rt": "",
+    "st": "Unit 1D Ground Floor Icon Plaza, 26 St. corner 6 Avenue, South Bonifacio Global City, Taguig City, Metro Manila",
+    "te": "+63 917 591 0481",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "58": {
     "ID": "9498",
     "na": "CHARM MEDICAL SKIN &#038; BODY CLINIC",
     "gu": "https://ultherapy-asia.com/store/charm-medical-skin-body-clinic/",
@@ -4432,7 +4537,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "52": {
+  "59": {
     "ID": "9264",
     "na": "CHI DERMATOLOGY CLINIC",
     "gu": "https://ultherapy-asia.com/store/chi-dermatology-clinic/",
@@ -4445,7 +4550,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "53": {
+  "60": {
     "ID": "8743",
     "na": "CLARA V CLINIC",
     "gu": "https://ultherapy-asia.com/store/clara-v-clinic/",
@@ -4460,7 +4565,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "54": {
+  "61": {
     "ID": "12049",
     "na": "CLINICA DE BELEZA",
     "gu": "https://ultherapy-asia.com/store/clinica-de-beleza/",
@@ -4475,7 +4580,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "55": {
+  "62": {
     "ID": "9263",
     "na": "CORDERM ADVANCED DERMATOLOGY AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/corderm-advanced-dermatology-and-laser-center/",
@@ -4489,7 +4594,37 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.corderm.com"
   },
-  "56": {
+  "63": {
+    "ID": "11220",
+    "na": "CORDERM ADVANCED DERMATOLOGY AND LASER CENTER",
+    "gu": "https://maps.app.goo.gl/tG3ijvhbvpMUs3Vt5",
+    "ex": "",
+    "lat": "14.558385560887203",
+    "lng": "121.01434356437015",
+    "distance": "",
+    "rt": "",
+    "st": "Suite 1502 Medical Plaza Makati, Amorsolo, corner Dela Rosa Street, Makati City, 1223 Metro Manila",
+    "te": "+63 2 8808 8140",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "64": {
+    "ID": "11226",
+    "na": "COSMA INSTITUTE",
+    "gu": "https://maps.app.goo.gl/4daF7DKFF3ukgsNe6",
+    "ex": "",
+    "lat": "14.544622822497793",
+    "lng": "121.0474749779111",
+    "distance": "",
+    "rt": "",
+    "st": "MJ Tower Fort, 20th Dr, Cor 21st Dr, City of Makati, 1634 Metro Manila",
+    "te": "+63 917 188 8118",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "65": {
     "ID": "8811",
     "na": "CSA MEDICAL AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/csa-medical-aesthetics/",
@@ -4503,7 +4638,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "57": {
+  "66": {
     "ID": "9262",
     "na": "DARE BY DR. JEAN MARQUEZ",
     "gu": "https://ultherapy-asia.com/store/dare-by-dr-jean-marquez/",
@@ -4517,7 +4652,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://dare.clinic/"
   },
-  "58": {
+  "67": {
     "ID": "8794",
     "na": "DAVE RESOCO PLASTIC AND AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/dave-resoco-plastic-and-aesthetics/",
@@ -4531,7 +4666,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "59": {
+  "68": {
     "ID": "9233",
     "na": "DERM SUITE",
     "gu": "https://ultherapy-asia.com/store/derm-suite/",
@@ -4545,7 +4680,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.dermsuite.com.ph"
   },
-  "60": {
+  "69": {
     "ID": "8851",
     "na": "DERMA 360 DERMATOLOGICAL CENTER",
     "gu": "https://ultherapy-asia.com/store/derma-360-dermatological-center/",
@@ -4559,7 +4694,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "61": {
+  "70": {
     "ID": "9272",
     "na": "DERMSTEAD",
     "gu": "https://ultherapy-asia.com/store/beaute-et-bien-etre-salon-and-spa/",
@@ -4574,7 +4709,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "62": {
+  "71": {
     "ID": "9261",
     "na": "DIHAS SKIN CLINIC",
     "gu": "https://ultherapy-asia.com/store/dihas-skin-clinic/",
@@ -4587,7 +4722,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "63": {
+  "72": {
     "ID": "11862",
     "na": "DR. ATHENA EMMANUELLE MALLARI (DERM A)",
     "gu": "",
@@ -4603,7 +4738,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "64": {
+  "73": {
     "ID": "9260",
     "na": "DR. CRB AESTHETIC AND LASER CLINIC - CEBU",
     "gu": "https://ultherapy-asia.com/store/dr-crb-aesthetic-and-laser-clinic-cebu/",
@@ -4616,7 +4751,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "65": {
+  "74": {
     "ID": "8876",
     "na": "DR. CRB Aesthetic and Laser Clnic",
     "gu": "https://ultherapy-asia.com/store/dr-crb-aesthetic-and-laser-clnic/",
@@ -4630,7 +4765,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "66": {
+  "75": {
     "ID": "8883",
     "na": "DR. ESTHÉ SKIN AND AESTHETICS CLINIC",
     "gu": "https://ultherapy-asia.com/store/dr-esthe-skin-and-aesthetics-clinic/",
@@ -4643,7 +4778,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "67": {
+  "76": {
     "ID": "8882",
     "na": "DR. FRANCESCA SUMILANG SY-ALVARADO AND DR. LIBERTY SUMILANG",
     "gu": "https://ultherapy-asia.com/store/dr-francesca-sumilang-sy-alvarado-and-dr-liberty-sumilang-2/",
@@ -4657,7 +4792,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "68": {
+  "77": {
     "ID": "8747",
     "na": "DR. LIBERTY SUMILANG - SKIN SOLUTIONS",
     "gu": "https://ultherapy-asia.com/store/dr-francesca-sumilang-sy-alvarado-and-dr-liberty-sumilang/",
@@ -4672,7 +4807,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": ""
   },
-  "69": {
+  "78": {
     "ID": "8800",
     "na": "DR. LIM CLINIC",
     "gu": "https://ultherapy-asia.com/store/dr-lim-clinic/",
@@ -4687,7 +4822,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "70": {
+  "79": {
     "ID": "11684",
     "na": "DR. MAICA VERGARA",
     "gu": "https://ultherapy-asia.com/store/dr-maica-vergara/",
@@ -4702,7 +4837,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "71": {
+  "80": {
     "ID": "11213",
     "na": "DR. MARIA VICTORIA DE OCAMPO LANTIN",
     "gu": "",
@@ -4717,7 +4852,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "72": {
+  "81": {
     "ID": "8848",
     "na": "DR. ROMMEL CABALLES, DR. ALLEN CABRERA, DR. CAROL CHAVEZ- MARONILLA",
     "gu": "https://ultherapy-asia.com/store/dr-rommel-caballes-dr-allen-cabrera-dr-carol-chavez-maronilla/",
@@ -4731,7 +4866,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "73": {
+  "82": {
     "ID": "9258",
     "na": "DR. SYLVIA HUANG M.D.",
     "gu": "https://ultherapy-asia.com/store/dr-sylvia-huang-m-d/",
@@ -4745,7 +4880,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "74": {
+  "83": {
     "ID": "9257",
     "na": "E-DERM CENTERS",
     "gu": "https://ultherapy-asia.com/store/e-derm-centers/",
@@ -4761,7 +4896,7 @@ const clinic_array_philippines = `{
     "we": "http://www.edermcenters.com",
     "pr": ""
   },
-  "75": {
+  "84": {
     "ID": "8850",
     "na": "EDESSAH SKIN AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/edessah-skin-and-laser-center/",
@@ -4775,7 +4910,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "76": {
+  "85": {
     "ID": "8868",
     "na": "FLAWLESS",
     "gu": "https://ultherapy-asia.com/store/flawless/",
@@ -4789,7 +4924,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "77": {
+  "86": {
     "ID": "12538",
     "na": "FORTÈ MEDICAL GROUP",
     "gu": "https://ultherapy-asia.com/store/forte-medical-group/",
@@ -4804,7 +4939,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "78": {
+  "87": {
     "ID": "12203",
     "na": "GENSKIN AESTHETIC AND WELLNESS CENTER",
     "gu": "https://ultherapy-asia.com/store/genskin-aesthetic-and-wellness-center/",
@@ -4819,7 +4954,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "79": {
+  "88": {
+    "ID": "11216",
+    "na": "GENSKIN AESTHETIC AND WELLNESS CLINIC",
+    "gu": "https://maps.app.goo.gl/3QF8RomB11H53PrR9",
+    "ex": "",
+    "lat": "14.635016332591448",
+    "lng": "121.03146933551919",
+    "distance": "",
+    "rt": "",
+    "st": "Elements Hall 27 Sct. Rallos Street, Timog Ave, Quezon City, 1103 Metro Manila",
+    "te": "+63 915 671 7163",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "89": {
     "ID": "9256",
     "na": "HOO DERMATOLOGY",
     "gu": "https://ultherapy-asia.com/store/hoo-dermatology/",
@@ -4833,7 +4983,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.hoodermatology.com"
   },
-  "80": {
+  "90": {
     "ID": "11699",
     "na": "HOO DERMATOLOGY ALABANG TOWN CENTER",
     "gu": "https://ultherapy-asia.com/store/hoo-dermatology-alabang-town-center/",
@@ -4848,7 +4998,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "81": {
+  "91": {
     "ID": "9255",
     "na": "HOO DERMATOLOGY GREENBELT 5",
     "gu": "https://ultherapy-asia.com/store/hoo-dermatology-greenbelt/",
@@ -4864,7 +5014,7 @@ const clinic_array_philippines = `{
     "we": "http://www.hoodermatology.com",
     "pr": ""
   },
-  "82": {
+  "92": {
     "ID": "11704",
     "na": "HOO DERMATOLOGY MARQUEE",
     "gu": "https://ultherapy-asia.com/store/hoo-dermatology-marquee/",
@@ -4879,7 +5029,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "83": {
+  "93": {
     "ID": "11701",
     "na": "HOO DERMATOLOGY TRINOMA",
     "gu": "https://ultherapy-asia.com/store/hoo-dermatology-trinoma/",
@@ -4894,7 +5044,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "84": {
+  "94": {
     "ID": "9254",
     "na": "HOO Dermatology- Muntinlupa",
     "gu": "https://ultherapy-asia.com/store/hoo-dermatology-muntinlupa/",
@@ -4908,7 +5058,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.hoodermatology.com"
   },
-  "85": {
+  "95": {
     "ID": "8877",
     "na": "HOO Dermatology-One BHS Mall",
     "gu": "https://ultherapy-asia.com/store/hoo-dermatology-one-bhs-mall/",
@@ -4922,7 +5072,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "86": {
+  "96": {
     "ID": "11690",
     "na": "HYDRA SKIN CLINIC",
     "gu": "https://ultherapy-asia.com/store/hydra-skin-clinic/",
@@ -4937,7 +5087,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "87": {
+  "97": {
     "ID": "9253",
     "na": "I-DERMA CLINIC",
     "gu": "https://ultherapy-asia.com/store/i-derma-clinic/",
@@ -4951,7 +5101,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "88": {
+  "98": {
     "ID": "8841",
     "na": "I.M AESTHETICS CENTER",
     "gu": "https://ultherapy-asia.com/store/i-m-aesthetics-center/",
@@ -4965,7 +5115,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "89": {
+  "99": {
     "ID": "8842",
     "na": "IDARA AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/idara-aesthetics/",
@@ -4979,7 +5129,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "90": {
+  "100": {
     "ID": "11692",
     "na": "IDARA AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/idara-aesthetics-2/",
@@ -4994,7 +5144,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "91": {
+  "101": {
     "ID": "12536",
     "na": "ILLUMINA DERMATOLOGY",
     "gu": "https://ultherapy-asia.com/store/illumina-dermatology/",
@@ -5009,7 +5159,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "92": {
+  "102": {
     "ID": "9488",
     "na": "JAMILA AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/jamila-aesthetics/",
@@ -5025,7 +5175,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "93": {
+  "103": {
     "ID": "9252",
     "na": "KAMISETA SKIN",
     "gu": "https://ultherapy-asia.com/store/kamiseta-skin/",
@@ -5039,7 +5189,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "94": {
+  "104": {
     "ID": "9251",
     "na": "KAMISETA SKIN BGC",
     "gu": "https://ultherapy-asia.com/store/kamiseta-skin-bgc/",
@@ -5054,7 +5204,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "95": {
+  "105": {
     "ID": "12057",
     "na": "KAMISETA SKIN CLINIC AYALA CEBU",
     "gu": "https://ultherapy-asia.com/store/kamiseta-skin-clinic-ayala-cebu/",
@@ -5069,7 +5219,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "96": {
+  "106": {
+    "ID": "11231",
+    "na": "KAMISETA SKIN CLINIC BGC",
+    "gu": "https://maps.app.goo.gl/maDQtFhxXVL1bCnY7",
+    "ex": "",
+    "lat": "14.551233661728766",
+    "lng": "121.05171532728185",
+    "distance": "",
+    "rt": "",
+    "st": "Unit C, Ground Floor, W Global Center, BGC",
+    "te": "+63 917 164 1827",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "107": {
     "ID": "11264",
     "na": "KAMISETA SKIN CLINIC THE GRANDIA PLACE",
     "gu": "https://ultherapy-asia.com/store/kamiseta-skin-clinic-the-grandia-place/",
@@ -5084,7 +5249,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "97": {
+  "108": {
     "ID": "11252",
     "na": "KAMISETA SKIN CLINIC WESTGATE ALABANG",
     "gu": "https://ultherapy-asia.com/store/kamiseta-skin-clinic-westgate-alabang/",
@@ -5099,7 +5264,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "98": {
+  "109": {
+    "ID": "11233",
+    "na": "KOMYO AESTHETIC AND MEDICAL INSTITUTE",
+    "gu": "https://maps.app.goo.gl/QLQbgSChoQgSeZWm9",
+    "ex": "",
+    "lat": "14.57632807526618",
+    "lng": "121.05345359321664",
+    "distance": "",
+    "rt": "",
+    "st": "Level 1 Greenfield Tower, Greenfield District Mandaluyong, 1550 Metro Manila",
+    "te": "+63 917 172 6807",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "110": {
     "ID": "8844",
     "na": "LA ESTETICA",
     "gu": "https://ultherapy-asia.com/store/la-estetica/",
@@ -5113,7 +5293,22 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "99": {
+  "111": {
+    "ID": "11215",
+    "na": "LASER 360 BY SKIN 101",
+    "gu": "https://maps.app.goo.gl/LgwB58Ab5zyc1dr78",
+    "ex": "",
+    "lat": "14.547407305077291",
+    "lng": "121.03510159321019",
+    "distance": "",
+    "rt": "",
+    "st": "2nd Floor, San Antonio Plaza Arcade, Makati City, Metro Manila",
+    "te": "+63 922 880 0654",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "112": {
     "ID": "11688",
     "na": "LE MEUR AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/le-meur-aesthetics/",
@@ -5128,7 +5323,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "100": {
+  "113": {
     "ID": "12043",
     "na": "LE MEUR AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/le-meur-aesthetics-2/",
@@ -5143,7 +5338,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "101": {
+  "114": {
+    "ID": "11234",
+    "na": "LE MEUR AESTHETICS GREENHILLS",
+    "gu": "https://maps.app.goo.gl/3rfxDQhbx425YqS87",
+    "ex": "",
+    "lat": "14.601933691157628",
+    "lng": "121.04862070665935",
+    "distance": "",
+    "rt": "",
+    "st": "New Greenhills Mall, Ortigas Ave, San Juan City, 1503 Metro Manila",
+    "te": "+63 917 160 5523",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "115": {
     "ID": "9250",
     "na": "LUMINISCE BGC",
     "gu": "",
@@ -5159,7 +5369,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "102": {
+  "116": {
     "ID": "9225",
     "na": "LUMINISCE HOLISTIC SKIN INNOVATIONS ALABANG",
     "gu": "https://ultherapy-asia.com/store/luminisce-holistic-skin-innovation/",
@@ -5175,7 +5385,22 @@ const clinic_array_philippines = `{
     "we": "http://luminisce.com/",
     "pr": "1"
   },
-  "103": {
+  "117": {
+    "ID": "11225",
+    "na": "LUMINISCE HOLISTIC SKIN INNOVATIONS PODIUM",
+    "gu": "https://maps.app.goo.gl/Z5ViH9SDv4dApSC79",
+    "ex": "",
+    "lat": "14.585387223875045",
+    "lng": "121.05901616441776",
+    "distance": "",
+    "rt": "",
+    "st": "4th The Podium, Ortigas Center, Mandaluyong City, Metro Manila",
+    "te": "+63 917 168 4661",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "118": {
     "ID": "8888",
     "na": "MANNY AND PIE CALAYAN CLINIC",
     "gu": "https://ultherapy-asia.com/store/manny-and-pie-calayan-clinic/",
@@ -5189,7 +5414,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "104": {
+  "119": {
     "ID": "9193",
     "na": "MANNY AND PIE CALAYAN CLINIC",
     "gu": "https://ultherapy-asia.com/store/manny-and-pie-calayan-clinic-3/",
@@ -5203,7 +5428,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "105": {
+  "120": {
     "ID": "8869",
     "na": "MARIA GINA MORADA, MD, FPDS",
     "gu": "https://ultherapy-asia.com/store/maria-gina-morada-md-fpds/",
@@ -5217,7 +5442,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "106": {
+  "121": {
     "ID": "8793",
     "na": "MD AESTHETIQUE",
     "gu": "https://ultherapy-asia.com/store/md-aesthetique/",
@@ -5232,7 +5457,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "107": {
+  "122": {
+    "ID": "11221",
+    "na": "MD AESTHETIQUE",
+    "gu": "https://maps.app.goo.gl/U2TbsCe18MLpT81v5",
+    "ex": "",
+    "lat": "14.57651195875436",
+    "lng": "121.06510833554748",
+    "distance": "",
+    "rt": "",
+    "st": "4th floor, Estancia East Wing Mall Capitol commons, Ortigas Center, Pasig, Metro Manila",
+    "te": "+63 915 116 2562",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "123": {
     "ID": "8853",
     "na": "ME MEDICAL AESTHETIQUE",
     "gu": "https://ultherapy-asia.com/store/optimum-skin/",
@@ -5247,7 +5487,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "108": {
+  "124": {
     "ID": "9249",
     "na": "MECCA AESTHETIC CLINIC AND SPA",
     "gu": "https://ultherapy-asia.com/store/mecca-aesthetic-clinic-and-spa/",
@@ -5261,7 +5501,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "109": {
+  "125": {
     "ID": "9224",
     "na": "MEDI SPA",
     "gu": "https://ultherapy-asia.com/store/medi-spa/",
@@ -5275,7 +5515,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "110": {
+  "126": {
     "ID": "11204",
     "na": "MIYATA MEDICAL AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/miyata-medical-aesthetics/",
@@ -5290,7 +5530,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "111": {
+  "127": {
     "ID": "9248",
     "na": "MONTESA MEDICAL GROUP",
     "gu": "https://ultherapy-asia.com/store/montesa-medical-group/",
@@ -5305,7 +5545,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://shimmiandermatology.com/"
   },
-  "112": {
+  "128": {
     "ID": "12053",
     "na": "MONTINOLA AESTHETIC LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/montinola-aesthetic-laser-center/",
@@ -5320,7 +5560,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "113": {
+  "129": {
     "ID": "11859",
     "na": "MVCA JAVELLANA ADVANCED AESTHETICS",
     "gu": "",
@@ -5336,7 +5576,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "114": {
+  "130": {
     "ID": "11858",
     "na": "NELLIE YU SKIN CLINIC",
     "gu": "",
@@ -5352,7 +5592,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "115": {
+  "131": {
     "ID": "11686",
     "na": "NOAH AND EVE INNOVATIVE AESTHETIC CENTER",
     "gu": "https://ultherapy-asia.com/store/noah-and-eve-innovative-aesthetic-center/",
@@ -5367,7 +5607,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "116": {
+  "132": {
     "ID": "9247",
     "na": "NU U ASIA",
     "gu": "https://ultherapy-asia.com/store/nu-u-asia/",
@@ -5380,7 +5620,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "117": {
+  "133": {
     "ID": "9974",
     "na": "NUTRIÉL NUTRITIVE SKIN CARE + DERMATOLOGY",
     "gu": "https://ultherapy-asia.com/store/nutriel-nutritive-skin-care-dermatology/",
@@ -5396,7 +5636,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "118": {
+  "134": {
     "ID": "9976",
     "na": "NUTRIÉL NUTRITIVE SKIN CARE + DERMATOLOGY",
     "gu": "https://ultherapy-asia.com/store/nutriel-nutritive-skin-care-dermatology-2/",
@@ -5412,7 +5652,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "119": {
+  "135": {
     "ID": "9246",
     "na": "O SKIN LASER AND AESTHETICS CLINIC",
     "gu": "https://ultherapy-asia.com/store/o-skin-laser-and-aesthetics-clinic/",
@@ -5425,7 +5665,22 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "120": {
+  "136": {
+    "ID": "11223",
+    "na": "ONE NADELA MEDICAL GROUP MAKATI",
+    "gu": "https://maps.app.goo.gl/NZvr4r3gGz5wdGGP9",
+    "ex": "",
+    "lat": "14.562953223791595",
+    "lng": "121.02249943558222",
+    "distance": "",
+    "rt": "",
+    "st": "Unit 3, 136-138 Jupiter, Makati City, 1209 Metro Manila",
+    "te": "+63 952 443 8133",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "137": {
     "ID": "12051",
     "na": "OPTIMUM SKIN ARCOVIA",
     "gu": "https://ultherapy-asia.com/store/optimum-skin-arcovia/",
@@ -5440,7 +5695,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "121": {
+  "138": {
     "ID": "9245",
     "na": "ORACLE AESTHETIC CLINIC",
     "gu": "https://ultherapy-asia.com/store/oracle-aesthetic-clinic/",
@@ -5454,7 +5709,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www. oracle-aesthetic.com.ph"
   },
-  "122": {
+  "139": {
     "ID": "11214",
     "na": "ORODERM",
     "gu": "https://ultherapy-asia.com/store/oroderm/",
@@ -5469,7 +5724,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "123": {
+  "140": {
     "ID": "8795",
     "na": "ORTIZ MEDICAL AND SKIN CLINIC",
     "gu": "https://ultherapy-asia.com/store/ortiz-medical-and-skin-clinic/",
@@ -5483,7 +5738,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "124": {
+  "141": {
     "ID": "9244",
     "na": "ORTIZ MEDICAL AND SKIN CLINIC",
     "gu": "https://ultherapy-asia.com/store/ortiz-medical-and-skin-clinic-2/",
@@ -5496,7 +5751,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "125": {
+  "142": {
     "ID": "9494",
     "na": "PRIMOROSA AESTHETIC CENTER",
     "gu": "https://ultherapy-asia.com/store/primorosa-aesthetics/",
@@ -5511,7 +5766,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "126": {
+  "143": {
     "ID": "8750",
     "na": "PRIORÉ BEAUTY AND WELLNESS",
     "gu": "https://ultherapy-asia.com/store/priore-beauty-and-wellness/",
@@ -5526,7 +5781,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "127": {
+  "144": {
     "ID": "8738",
     "na": "RADIANT CARE SKIN & BODY WELLNESS CENTER",
     "gu": "https://ultherapy-asia.com/store/radiant-care-skin-body-wellness-center/",
@@ -5541,7 +5796,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "128": {
+  "145": {
     "ID": "9965",
     "na": "REGENESIS AESTHETIC AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/regenesis/",
@@ -5556,7 +5811,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "129": {
+  "146": {
     "ID": "11202",
     "na": "REMEDY SKIN SOLUTIONS UPTOWN BGC",
     "gu": "https://ultherapy-asia.com/store/remedy-skin-solutions/",
@@ -5571,7 +5826,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "130": {
+  "147": {
     "ID": "9242",
     "na": "RENERGY DERMATOLOGY AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/renergy-dermatology-and-laser-center/",
@@ -5584,7 +5839,22 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "131": {
+  "148": {
+    "ID": "11222",
+    "na": "RENEWPLUS MEDICAL AESTHETICS",
+    "gu": "https://maps.app.goo.gl/PoEUrkzWdH611kL68",
+    "ex": "",
+    "lat": "14.562897223789657",
+    "lng": "121.01672436438602",
+    "distance": "",
+    "rt": "",
+    "st": "2F Retail 08, The, Lerato, Malugay, Makati, Makati City, 1227 Metro Manila",
+    "te": "+63 917 143 9780",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "149": {
     "ID": "8884",
     "na": "RJC DERMAGLOW AESTHETIC AND MEDICAL CLINIC",
     "gu": "https://ultherapy-asia.com/store/rjc-dermaglow-aesthetic-and-medical-clinic/",
@@ -5597,7 +5867,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "132": {
+  "150": {
     "ID": "8740",
     "na": "ROYAL PRINCE AESTHETICS SLIMMING CENTER",
     "gu": "https://ultherapy-asia.com/store/royal-prince-aesthetics-slimming-center-2/",
@@ -5612,7 +5882,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": ""
   },
-  "133": {
+  "151": {
     "ID": "9492",
     "na": "ROYAL PRINCE AESTHETICS SLIMMING CENTER",
     "gu": "https://ultherapy-asia.com/store/royal-prince-aesthetics-slimming-center-3/",
@@ -5628,7 +5898,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "134": {
+  "152": {
     "ID": "8846",
     "na": "RYE AESTHETICS AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/rye-aesthetics-and-laser-center/",
@@ -5642,7 +5912,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "135": {
+  "153": {
     "ID": "8737",
     "na": "SAHAYA DERMATOLOGY / DR. EVANGELYN ESPIRITU",
     "gu": "https://ultherapy-asia.com/store/sahaya-dermatology-dr-evangelyn-espiritu/",
@@ -5659,7 +5929,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "136": {
+  "154": {
     "ID": "8744",
     "na": "SAVOUGE AESTHETICS AND MEDICAL CLINIC CORPORATION",
     "gu": "https://ultherapy-asia.com/store/savouge-aesthetics/",
@@ -5674,7 +5944,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "137": {
+  "155": {
     "ID": "8730",
     "na": "SHEENAS CHOICE",
     "gu": "https://ultherapy-asia.com/store/sheenas-choice/",
@@ -5689,7 +5959,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "138": {
+  "156": {
     "ID": "8812",
     "na": "SHENOA ADVANCED AESTHETIC CLINIC INC.",
     "gu": "https://ultherapy-asia.com/store/shenoa-advanced-aesthetic-clinic-inc/",
@@ -5704,7 +5974,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "139": {
+  "157": {
     "ID": "9223",
     "na": "SIMPLY SKIN CLINIC",
     "gu": "https://ultherapy-asia.com/store/simply-skin-clinic/",
@@ -5719,7 +5989,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.simplyskin.ph"
   },
-  "140": {
+  "158": {
     "ID": "8758",
     "na": "SKIN & BODY SOLUTIONS OF MANUEL HEALTH CLINIC",
     "gu": "https://ultherapy-asia.com/store/skin-body-solutions-of-manuel-health-clinic/",
@@ -5735,7 +6005,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "141": {
+  "159": {
     "ID": "8878",
     "na": "SKIN 101 WHITE PLAINS",
     "gu": "https://ultherapy-asia.com/store/skin-101/",
@@ -5750,7 +6020,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": "1"
   },
-  "142": {
+  "160": {
     "ID": "9240",
     "na": "SKIN AESTHETIQUES DERMATOLOGY AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/skin-aesthetiques-dermatology-and-laser-center/",
@@ -5763,7 +6033,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "143": {
+  "161": {
     "ID": "10066",
     "na": "SKIN AESTHETIQUES DERMATOLOGY AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/skin-aesthetiques-dermatology-and-laser-center-2/",
@@ -5778,7 +6048,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "144": {
+  "162": {
     "ID": "9239",
     "na": "SKIN AND CANCER FOUNDATION, INC.",
     "gu": "https://ultherapy-asia.com/store/skin-and-cancer-foundation/",
@@ -5794,7 +6064,7 @@ const clinic_array_philippines = `{
     "we": "http://www.skinandcancerfoundation.org",
     "pr": "1"
   },
-  "145": {
+  "163": {
     "ID": "8865",
     "na": "SKIN AVANSE WELLNESS AND AESTHETIC CENTER",
     "gu": "https://ultherapy-asia.com/store/skin-mdc-congressional/",
@@ -5809,7 +6079,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "146": {
+  "164": {
     "ID": "9238",
     "na": "SKIN CELL ADVANCED AESTHETIC CLINICS",
     "gu": "https://ultherapy-asia.com/store/skin-cell-advanced-aesthetic-clinics/",
@@ -5822,7 +6092,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "147": {
+  "165": {
     "ID": "9237",
     "na": "SKIN DERMATOLOGY AND LASER CENTER BY THE SPA",
     "gu": "https://ultherapy-asia.com/store/skin-dermatology-and-laser-center-by-the-spa/",
@@ -5836,7 +6106,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://www.skindermatologyandlaser.com"
   },
-  "148": {
+  "166": {
     "ID": "9236",
     "na": "SKIN HOUSE BEAUTY AND LASER CLINIC",
     "gu": "https://ultherapy-asia.com/store/skin-house-beauty-and-laser-clinic/",
@@ -5851,7 +6121,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "https://www.theskinhousebeauty.com/"
   },
-  "149": {
+  "167": {
     "ID": "8870",
     "na": "Skin MDC",
     "gu": "https://ultherapy-asia.com/store/skin-mdc/",
@@ -5865,7 +6135,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "150": {
+  "168": {
     "ID": "9235",
     "na": "SKIN MDC LASER DERMATOLOGY SLIMMING CENTER",
     "gu": "https://ultherapy-asia.com/store/skin-mdc-2/",
@@ -5881,7 +6151,7 @@ const clinic_array_philippines = `{
     "we": "https://www.skinmdc.com",
     "pr": "1"
   },
-  "151": {
+  "169": {
     "ID": "9221",
     "na": "SKIN MEDICA",
     "gu": "https://ultherapy-asia.com/store/skin-medica/",
@@ -5894,7 +6164,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "152": {
+  "170": {
     "ID": "11863",
     "na": "SKINCELL",
     "gu": "",
@@ -5910,7 +6180,7 @@ const clinic_array_philippines = `{
     "we": "",
     "pr": "1"
   },
-  "153": {
+  "171": {
     "ID": "9234",
     "na": "SKINERGIZE LASER CLINIC",
     "gu": "https://ultherapy-asia.com/store/skinergize-laser-clinic/",
@@ -5923,7 +6193,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "154": {
+  "172": {
     "ID": "9194",
     "na": "SKINHOUSE BEAUTY AND LASER CLINIC BGC",
     "gu": "https://ultherapy-asia.com/store/skin-house-beauty-and-laser-clinic-bgc/",
@@ -5939,7 +6209,7 @@ const clinic_array_philippines = `{
     "we": "https://www.theskinhousebeauty.com/",
     "pr": "1"
   },
-  "155": {
+  "173": {
     "ID": "8867",
     "na": "SKINIVE AESTHETIC AND WELLNESS",
     "gu": "https://ultherapy-asia.com/store/skinive-aesthetic-center/",
@@ -5954,7 +6224,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "156": {
+  "174": {
     "ID": "11208",
     "na": "SKINNIC DAVAO",
     "gu": "https://ultherapy-asia.com/store/skinnic-davao/",
@@ -5969,7 +6239,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "157": {
+  "175": {
     "ID": "11200",
     "na": "SKINSTITUTE MD",
     "gu": "https://ultherapy-asia.com/store/skinstitute-md/",
@@ -5984,7 +6254,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "158": {
+  "176": {
+    "ID": "11214",
+    "na": "SLIMMERS WORLD FACE AND SKIN CLINIC ELITE",
+    "gu": "https://maps.app.goo.gl/KWsobSAVj7HZMt969",
+    "ex": "",
+    "lat": "14.548093195366183",
+    "lng": "121.05113966436966",
+    "distance": "",
+    "rt": "",
+    "st": "2nd Floor High Street South Corporate Plaza 26th corner 9th Avenue Bonifacio Global City Taguig",
+    "te": "+63 956 526 9065",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "177": {
     "ID": "8745",
     "na": "STELTON DERMASCIENCE",
     "gu": "https://ultherapy-asia.com/store/stelton-dermascience/",
@@ -5999,7 +6284,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "159": {
+  "178": {
     "ID": "8852",
     "na": "STESSO SLIMMING AND FACIAL CENTER",
     "gu": "https://ultherapy-asia.com/store/stesso-slimming-and-facial-center/",
@@ -6013,7 +6298,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "160": {
+  "179": {
     "ID": "12045",
     "na": "SW AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/sw-aesthetics/",
@@ -6027,7 +6312,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "161": {
+  "180": {
+    "ID": "11217",
+    "na": "TBL MANILA AESTHETIC",
+    "gu": "https://maps.app.goo.gl/91y8rQV7ZPGmcYKh6",
+    "ex": "",
+    "lat": "14.558874660836299",
+    "lng": "121.00510410669553",
+    "distance": "",
+    "rt": "",
+    "st": "NAYA 3F, 1338 Filmore St., Palanan, Makati",
+    "te": "+63 977 822 3669",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "181": {
     "ID": "8748",
     "na": "TEMPLORA DERMATOLOGICA",
     "gu": "https://ultherapy-asia.com/store/templora-dermatologica/",
@@ -6042,7 +6342,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "162": {
+  "182": {
     "ID": "8749",
     "na": "TEMPLORA DERMATOLOGICA",
     "gu": "https://ultherapy-asia.com/store/templora-dermatologica-2/",
@@ -6057,7 +6357,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "163": {
+  "183": {
     "ID": "8762",
     "na": "TEMPLORA DERMATOLOGICA",
     "gu": "https://ultherapy-asia.com/store/templora-dermatologica-3/",
@@ -6073,7 +6373,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "164": {
+  "184": {
     "ID": "9232",
     "na": "THE L.A.B. CLINIC",
     "gu": "https://ultherapy-asia.com/store/the-l-a-b-clinic/",
@@ -6087,7 +6387,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "165": {
+  "185": {
     "ID": "12055",
     "na": "THE L.A.B. CLINIC",
     "gu": "https://ultherapy-asia.com/store/the-lab-clinic/",
@@ -6102,7 +6402,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "166": {
+  "186": {
     "ID": "11206",
     "na": "THE NARVAEZ CLINIC",
     "gu": "https://ultherapy-asia.com/store/the-narvaez-clinic/",
@@ -6117,7 +6417,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "167": {
+  "187": {
     "ID": "8751",
     "na": "THE SKIN CENTER",
     "gu": "https://ultherapy-asia.com/store/the-skin-center/",
@@ -6132,7 +6432,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "168": {
+  "188": {
+    "ID": "11230",
+    "na": "THE SKIN DERMATOLOGY AND LASER CENTER BY THE SPA",
+    "gu": "https://maps.app.goo.gl/eBJbiSZEDtWYNj8TA",
+    "ex": "",
+    "lat": "14.550599038234415",
+    "lng": "121.05150680713362",
+    "distance": "",
+    "rt": "",
+    "st": "B8, 9th Avenue, Bonifacio High Street, City of Makati, Metro Manila",
+    "te": "+63 917 809 2399",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "189": {
     "ID": "9219",
     "na": "TOLEDO MEDICAL COMPANIES, INC.",
     "gu": "https://ultherapy-asia.com/store/toledo-medical-companies-inc/",
@@ -6148,7 +6463,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "https://www.toledomed.com.ph/"
   },
-  "169": {
+  "190": {
     "ID": "9231",
     "na": "TOLEDO MEDICAL COMPANIES, INC. - CEBU",
     "gu": "https://ultherapy-asia.com/store/toledo-medical-companies-inc-cebu/",
@@ -6163,7 +6478,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "https://www.toledomed.com.ph/"
   },
-  "170": {
+  "191": {
     "ID": "8767",
     "na": "TOLEDO MEDICAL COMPANIES, INC. - DAVAO",
     "gu": "https://ultherapy-asia.com/store/toledo-medical-companies-inc-davao/",
@@ -6179,7 +6494,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "171": {
+  "192": {
     "ID": "8875",
     "na": "TOLEDO MEDICAL COMPANIES, INC. - DAVAO",
     "gu": "https://ultherapy-asia.com/store/toledo-medical-companies-inc-davao-2/",
@@ -6193,7 +6508,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "172": {
+  "193": {
     "ID": "8759",
     "na": "TOLEDO MEDICAL COMPANIES, INC.- KORONODAL",
     "gu": "https://ultherapy-asia.com/store/toledo-medical-companies-inc-koronodal/",
@@ -6208,7 +6523,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "173": {
+  "194": {
     "ID": "8813",
     "na": "VANILLA SKIN",
     "gu": "https://ultherapy-asia.com/store/vanilla-skin/",
@@ -6223,7 +6538,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "174": {
+  "195": {
     "ID": "8845",
     "na": "VE EUSEBIO SKIN CENTER",
     "gu": "https://ultherapy-asia.com/store/ve-eusebio-skin-center/",
@@ -6237,7 +6552,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "175": {
+  "196": {
     "ID": "9969",
     "na": "VELASCO MEDICAL AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/velasco-medical-aesthetics/",
@@ -6253,7 +6568,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "176": {
+  "197": {
     "ID": "8843",
     "na": "VERZOSA AESTHETIC CLINIC",
     "gu": "https://ultherapy-asia.com/store/verzosa-aesthetic-clinic/",
@@ -6267,7 +6582,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "177": {
+  "198": {
     "ID": "9230",
     "na": "VICTORIA SKIN PHILOSOPHY",
     "gu": "https://ultherapy-asia.com/store/victoria-skin-philosophy/",
@@ -6280,7 +6595,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "178": {
+  "199": {
     "ID": "9222",
     "na": "VW DERMATOLOGY",
     "gu": "https://ultherapy-asia.com/store/vw-dermatology/",
@@ -6294,7 +6609,22 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://vwdermatology.com/"
   },
-  "179": {
+  "200": {
+    "ID": "11235",
+    "na": "VW DERMATOLOGY",
+    "gu": "https://maps.app.goo.gl/LWjs3L1d2MWPwpxt6",
+    "ex": "",
+    "lat": "15.036063903786925",
+    "lng": "120.68369653366628",
+    "distance": "",
+    "rt": "",
+    "st": "Macabakle, San Fernando, 2000 Pampanga",
+    "te": "+63 920 625 7438",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "201": {
     "ID": "8866",
     "na": "W ADVANCED MEDICAL AESTHETIC CENTRE, INC.",
     "gu": "https://ultherapy-asia.com/store/w-advanced-medical-aesthetic-centre-inc/",
@@ -6308,7 +6638,22 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "180": {
+  "202": {
+    "ID": "11232",
+    "na": "WILLIS MEDICAL SERVICES",
+    "gu": "https://maps.app.goo.gl/ihYPTrnjAEmdsxTA9",
+    "ex": "",
+    "lat": "14.247700501762596",
+    "lng": "121.06161107786444",
+    "distance": "",
+    "rt": "",
+    "st": "Second Floor, Ehrlind Square, Santa Rosa - Tagaytay Rd, City of Santa Rosa, Laguna",
+    "te": "+63 917 883 9921",
+    "ic": "",
+    "mi": "",
+    "pr": ""
+  },
+  "203": {
     "ID": "9939",
     "na": "WILSON AND AYACHE CLINIC",
     "gu": "https://ultherapy-asia.com/store/wilson-and-ayache-clinic/",
@@ -6324,7 +6669,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "181": {
+  "204": {
     "ID": "9941",
     "na": "XENIA DERMATOLOGY AND LASER CLINIC",
     "gu": "https://ultherapy-asia.com/store/xenia-dermatology-and-laser-clinic/",
@@ -6341,7 +6686,7 @@ const clinic_array_philippines = `{
     "we": "http://",
     "pr": ""
   },
-  "182": {
+  "205": {
     "ID": "9243",
     "na": "YOU+ INTELLIGENT AESTHETICS",
     "gu": "https://ultherapy-asia.com/store/you-intelligent-aesthetics/",
@@ -6355,7 +6700,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "183": {
+  "206": {
     "ID": "8887",
     "na": "YOUTHPLUS SKIN AND LASER CENTER",
     "gu": "https://ultherapy-asia.com/store/youthplus-skin-and-laser-center/",
@@ -6369,7 +6714,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": ""
   },
-  "184": {
+  "207": {
     "ID": "8729",
     "na": "YSERA AESTHETICS CENTER",
     "gu": "https://ultherapy-asia.com/store/ysera-aesthetics-center/",
@@ -6384,7 +6729,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "185": {
+  "208": {
     "ID": "8768",
     "na": "YSSABELLE AESTHETICS AND WELLNESS",
     "gu": "https://ultherapy-asia.com/store/yssabelle-aesthetics-and-wellness/",
@@ -6399,7 +6744,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "we": "http://"
   },
-  "186": {
+  "209": {
     "ID": "11210",
     "na": "ZAPPP LASER SKIN CARE",
     "gu": "https://ultherapy-asia.com/store/zapp-laser/",
@@ -6414,7 +6759,7 @@ const clinic_array_philippines = `{
     "mi": "",
     "pr": ""
   },
-  "187": {
+  "210": {
     "ID": "11212",
     "na": "ZAPPP LASER SKIN CARE",
     "gu": "https://ultherapy-asia.com/store/zapp-laser-2/",
@@ -6428,7 +6773,7 @@ const clinic_array_philippines = `{
     "ic": "",
     "mi": "",
     "pr": ""
-}
+  }
 }`
 //#endregion
 
